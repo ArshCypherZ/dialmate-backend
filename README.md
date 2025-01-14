@@ -82,7 +82,7 @@ Therefore, use our web app to test which is [DialMateAI](https://dialmateai.verc
 - The hosted web app allows users to experience the application without complex setup.
 
 
-### Architecture
+### Architecture for Gemini + WebRTC
 
 
 ```
@@ -119,3 +119,8 @@ Therefore, use our web app to test which is [DialMateAI](https://dialmateai.verc
                                  │                                         │     
                                  └─────────────────────────────────────────┘  
 ```     
+
+
+### Architecture for OpenAI + Twilio
+
+![Flowchart](https://github.com/ArshCypherZ/dialmate-backend/blob/dev/archi.png)
