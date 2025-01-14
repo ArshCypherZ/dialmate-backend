@@ -1,0 +1,3 @@
+[submodule "voiceai-hackathon"]
+	path = voiceai-hackathon
+	url = https://github.com/Dey11/voiceai-hackathon
