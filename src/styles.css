@@ -1,0 +1,53 @@
+body {
+  max-width: 800px;
+  margin: 20px 20px;
+  ;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+#join-div a {
+  color: #2563eb;
+  cursor: pointer;
+}
+
+.user-message {
+  background-color: #f0f0f0;
+  margin: 24px 12px;
+  padding: 16px;
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+.user-message .interim {
+  color: #707070;
+}
+
+.user-message::before {
+  content: "User\A";
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+  display: block;
+  padding-bottom: 0.4em;
+}
+
+.assistant-message {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  margin: 24px 12px;
+  padding: 16px;
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+.assistant-message::before {
+  content: "Assistant";
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+  display: block;
+  padding-bottom: 0.4em;
+}
+
+
+
