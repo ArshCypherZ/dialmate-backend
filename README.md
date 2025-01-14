@@ -124,3 +124,21 @@ Therefore, use our web app to test which is [DialMateAI](https://dialmateai.verc
 ### Architecture for OpenAI + Twilio
 
 ![Flowchart](https://github.com/ArshCypherZ/dialmate-backend/blob/dev/archi.png)
+
+
+### Features
+- Function (Tool) Calling
+- Low latency with cloud WebRTC
+- Integration with Twilio for high quality phone calls
+- OpenAI and Gemini Realtime Support
+- Voice Activity Detection (VAD)
+- Configurable Natural Sounding Voices
+- Highly intelligent sales agent
+
+
+**Note**: 
+Since you cannot run the phone ai agent without getting verified, here is an example demo:
+https://youtube.com/shorts/r8-pi9Vtf7w?si=5_790MHq0RiQ6PRP
+
+
+Thank You.
